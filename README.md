@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 💡 About Me
 
-🎓 I'm a B.Tech CSE student with a specialization in **Full Stack & AI**  
+🎓 I'm a B.Tech CSE student with a specialization in **Full Stack & WEB 3**  
 💻 Passionate about building smart, scalable, and meaningful tech solutions  
 🚀 Currently working on:
 - **CardioScan AI** – AI-powered ECG analysis for heart health 
