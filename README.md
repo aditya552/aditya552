@@ -1,6 +1,6 @@
 <!-- Profile Readme -->
 
-# 👋 Hi there, I'm Aditya Raj Singh!  
+# 👋 Hi there, I'm Aditya.  
 Welcome to my GitHub profile 🚀  
 
 ---
@@ -20,13 +20,6 @@ Welcome to my GitHub profile 🚀
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
-
----
-
-## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya552&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya552&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya552&theme=tokyonight)  
 
 ---
 
